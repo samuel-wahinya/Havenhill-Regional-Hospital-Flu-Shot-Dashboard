@@ -65,3 +65,19 @@ This report empowers hospital leadership to make data-informed decisions for imp
 
 - 📍 **Vaccination by County**  
   Counties like **Barnstable** (82.5%) and **Berkshire** (82.3%) led in compliance, while **Dukes** and **Nantucket** (80%) show room for slight improvement through localized outreach.
+
+  ## 4) Recommendations
+
+Based on the analysis of flu shot compliance at **Havenhill Regional Hospital**, the following actions are recommended to improve future immunization efforts:
+
+1. **Target Awareness for Young Adults (18–49)**  
+   Launch focused educational campaigns and workplace initiatives for patients aged 18–49, who showed the lowest flu shot compliance. Highlight risks of skipping annual vaccines even for healthy adults.
+
+2. **Outreach in Lower-Compliant Counties**  
+   While county-level compliance was relatively even, **Dukes** and **Nantucket** had the lowest uptake (80%). Consider deploying mobile clinics or community partnerships in these areas to improve access.
+
+3. **Earlier and Sustained Campaign Rollout**  
+   Initiate flu shot awareness and scheduling at the **start of Q3**, allowing patients time to plan appointments. Pair this with reminder systems via SMS or patient portals.
+
+4. **Collaborate with Community Leaders**  
+   Partner with schools, local churches, and elder care centers to drive uptake in both the youth and senior demographics—especially leveraging success seen in the 0–17 and 50+ age groups.
