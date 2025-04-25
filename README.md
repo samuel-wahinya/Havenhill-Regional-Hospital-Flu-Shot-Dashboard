@@ -36,3 +36,34 @@ The data for this project was extracted from Havenhill Regional Hospital’s int
 ### 📎 ERD (Entity Relationship Diagram)
 
 ![Healthcare ERD](docs/Healthcare%20ERD.jpg)
+
+## 3) Executive Summary
+
+To support preventive healthcare efforts, **St. Mercy General Hospital** initiated a project to track flu shot compliance in 2022. As the **Data Analyst**, I developed a dashboard to uncover trends in seasonal flu vaccination across key demographics.
+
+This report empowers hospital leadership to make data-informed decisions for improving outreach and achieving public health targets.
+
+### 🖼️ Dashboard Snapshot  
+![Healthcare Dashboard](docs/Healthcare-Dashboard.jpg)
+
+🔗 **[View Interactive Tableau Dashboard](https://public.tableau.com/views/ImmunizationDashboard_17157938691190/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+
+---
+
+### 🧠 Key Insights
+
+- 💉 **Total Flu Shots Administered**  
+  A total of **8,101** flu shots were given to eligible patients, reflecting strong hospital engagement in public health.
+
+- ✅ **Overall Compliance Rate**  
+  **81.4%** of active patients received their flu shots in 2022, indicating high awareness and access to immunizations.
+
+- 👶 **Vaccination by Age Group**  
+  - Ages **0–17** and **50–64** had the **highest compliance** (92.1% and 94%), possibly due to school requirements and senior care initiatives.  
+  - Ages **18–49** showed **lower uptake**, highlighting an opportunity for targeted awareness campaigns among younger adults.
+
+- 🌎 **Vaccination by Race**  
+  Compliance was **consistently above 80%** across all racial groups, with **Native Americans (85.7%)** and **Black patients (84.9%)** having the highest rates.
+
+- 📍 **Vaccination by County**  
+  Counties like **Barnstable** (82.5%) and **Berkshire** (82.3%) led in compliance, while **Dukes** and **Nantucket** (80%) show room for slight improvement through localized outreach.
