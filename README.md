@@ -17,3 +17,22 @@ This project utilized:
 - **Tableau** for interactive data visualization
 
 The resulting dashboard is now a central resource used by Havenhill’s medical directors and community outreach teams to identify underserved groups, evaluate performance, and drive targeted vaccination efforts.
+
+## 🗂️ Data Structure
+
+The data for this project was extracted from Havenhill Regional Hospital’s internal relational database, which follows a normalized structure. Below is an overview of the key tables used:
+
+### 📌 Core Tables
+
+- **Patients**
+  - Contains demographic details such as name, birth date, race, county, and death date.
+  
+- **Encounters**
+  - Records patient visits to the hospital, including start and stop times.
+
+- **Immunizations**
+  - Logs administered vaccines, with codes identifying the vaccine type (e.g., flu shots use code `5302`).
+
+### 📎 ERD (Entity Relationship Diagram)
+
+![Healthcare ERD](docs/Healthcare%20ERD.jpg)
