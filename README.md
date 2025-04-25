@@ -39,8 +39,6 @@ The data for this project was extracted from Havenhill Regional Hospital’s int
 
 ## 3) Executive Summary
 
-To support preventive healthcare efforts, **St. Mercy General Hospital** initiated a project to track flu shot compliance in 2022. As the **Data Analyst**, I developed a dashboard to uncover trends in seasonal flu vaccination across key demographics.
-
 This report empowers hospital leadership to make data-informed decisions for improving outreach and achieving public health targets.
 
 ### 🖼️ Dashboard Snapshot  
