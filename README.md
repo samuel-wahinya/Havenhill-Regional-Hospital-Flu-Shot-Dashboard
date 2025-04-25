@@ -66,7 +66,7 @@ This report empowers hospital leadership to make data-informed decisions for imp
 - **Vaccination by County**  
   Counties like **Barnstable** (82.5%) and **Berkshire** (82.3%) led in compliance, while **Dukes** and **Nantucket** (80%) show room for slight improvement through localized outreach.
 
-  ## 4) Recommendations
+## 4) Recommendations
 
 Based on the analysis of flu shot compliance at **Havenhill Regional Hospital**, the following actions are recommended to improve future immunization efforts:
 
