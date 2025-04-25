@@ -18,7 +18,7 @@ This project utilized:
 
 The resulting dashboard is now a central resource used by Havenhill’s medical directors and community outreach teams to identify underserved groups, evaluate performance, and drive targeted vaccination efforts.
 
-## 🗂️ Data Structure
+## 2) Data Structure
 
 The data for this project was extracted from Havenhill Regional Hospital’s internal relational database, which follows a normalized structure. Below is an overview of the key tables used:
 
