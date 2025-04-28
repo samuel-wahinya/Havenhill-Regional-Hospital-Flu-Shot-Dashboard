@@ -72,16 +72,18 @@ This report empowers hospital leadership to make data-informed decisions for imp
 
 ## 4) Recommendations
 
-Based on the analysis of flu shot compliance at **Havenhill Regional Hospital**, the following actions are recommended to improve future immunization efforts:
-
 1. **Target Awareness for Young Adults (18–49)**  
-   Launch focused educational campaigns and workplace initiatives for patients aged 18–49, who showed the lowest flu shot compliance. Highlight risks of skipping annual vaccines even for healthy adults.
+   Patients aged **18–34** (65.8% compliance) and **35–49** (67.6% compliance) showed the lowest flu shot uptake compared to other age groups.  
+   ➔ Launch focused educational campaigns and workplace initiatives for this group, highlighting that even healthy adults benefit from annual flu vaccinations.
 
 2. **Outreach in Lower-Compliant Counties**  
-   While county-level compliance was relatively even, **Dukes** and **Nantucket** had the lowest uptake (80%). Consider deploying mobile clinics or community partnerships in these areas to improve access.
+   While most counties showed flu shot compliance above 82%, **Dukes** and **Nantucket counties** lagged behind at **80% compliance**.  
+   ➔ Consider deploying mobile clinics, partnering with local organizations, or hosting pop-up vaccination events to improve access and awareness.
 
 3. **Earlier and Sustained Campaign Rollout**  
-   Initiate flu shot awareness and scheduling at the **start of Q3**, allowing patients time to plan appointments. Pair this with reminder systems via SMS or patient portals.
+   With an overall compliance of **81.4%**, a stronger push earlier in the flu season could boost numbers.  
+   ➔ Initiate flu shot awareness campaigns and appointment scheduling at the **start of Q3**. Reinforce with reminder systems via SMS, email, or patient portal notifications to maximize patient follow-through.
 
 4. **Collaborate with Community Leaders**  
-   Partner with schools, local churches, and elder care centers to drive uptake in both the youth and senior demographics—especially leveraging success seen in the 0–17 and 50+ age groups.
+   Strong compliance was observed among the **0–17** (92.1%) and **65+** (91.6%) age groups, likely due to existing community outreach efforts.  
+   ➔ Deepen partnerships with schools, local churches, and elder care centers to maintain high vaccination rates among youth and seniors, while expanding reach to mid-aged adults.
