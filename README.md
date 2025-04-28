@@ -13,8 +13,12 @@ To aid this public health effort, I was tasked with building a **Seasonal Flu Va
 - A full patient-level breakdown of those who received or missed the flu shot
 
 This project utilized:
-- **SQL Server** for data extraction and transformation  
+- **SQL Server** for data extraction and transformation
+  - [Pull Required Columns - `flu_shot_2022.sql`](script/flu_shot_2022.sql)
+  - [Perform Quality Checks - `flu_shot_2022_quality_check.sql`](script/flu_shot_2022_quality_check.sql)
+  - [Clean and Standardize Data - `flu_shot_2022_data_cleaning.sql`](script/flu_shot_2022_data_cleaning.sql)  
 - **Tableau** for interactive data visualization
+  - 🔗 **[View Interactive Tableau Dashboard](https://public.tableau.com/views/ImmunizationDashboard_17157938691190/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 The resulting dashboard is now a central resource used by Havenhill’s medical directors and community outreach teams to identify underserved groups, evaluate performance, and drive targeted vaccination efforts.
 
