@@ -1,5 +1,16 @@
 # Flu Shot Analytics: 2022 Compliance Report for Havenhill Regional Hospital
 
+# Table of Contents
+
+1. [Project Background](#1-project-background)
+2. [Data Structure](#2-data-structure)
+   - [Core Tables](#core-tables)
+   - [ERD (Entity Relationship Diagram)](#erd-entity-relationship-diagram)
+3. [Executive Summary](#3-executive-summary)
+   - [Dashboard Snapshot](#dashboard-snapshot)
+   - [Key Insights](#key-insights)
+4. [Recommendations](#4-recommendations)
+
 ## 1) Project Background
 
 As a **Data Analyst at Havenhill Regional Hospital**, I support clinical and administrative teams by turning healthcare data into actionable insights that improve patient outcomes and hospital operations. 
